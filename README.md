@@ -1,0 +1,1 @@
+'emiter.js' declares and exports the Emitter class. The class has method for adding and removing event listeners. It also has a method for broadcasting an event (i.e. notifying the listeners for a particular event that that event has occurred).
